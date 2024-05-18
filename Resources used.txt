@@ -1,0 +1,9 @@
+https://chatgpt.com/
+https://stackoverflow.com/questions/68968316/trying-to-open-file-dialog-with-qt & a whole bunch of other questions
+https://github.com/openssl/openssl
+https://medium.com/@yzahn/aes-encryption-with-openssl-and-qt-c-6fb7c2321e20
+https://www.javatpoint.com/aes-algorithm-in-cpp#:~:text=AES%20Encryption%20Mode%20(CBC)%3A&text=In%20CBC%20mode%2C%20each%20plaintext,the%20security%20of%20the%20encryption.
+https://github.com/openssl/openssl/issues/1573
+https://cmake.org/cmake/help/v3.6/module/FindOpenSSL.html
+https://doc.qt.io/qtvstools/qtvstools-tutorial-qt-quick-application.html
+https://doc.qt.io/qt-6/qt-online-installation.html

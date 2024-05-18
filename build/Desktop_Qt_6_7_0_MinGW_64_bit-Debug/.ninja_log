@@ -1,0 +1,73 @@
+# ninja log v5
+39	50	0	clean	139b443fbd37261f
+583	733	7377423824647488	apprdtask_qmltyperegistrations.cpp	cb6fb6d52fa27b1d
+513	540	7377423823577504	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_appRDtask_raw_qml_0.cpp	dbfb7c8d99f106e5
+516	546	7377423823647492	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/appRDtask_json_file_list.txt	e4479387c42c00f5
+910	2679	7377423844965253	CMakeFiles/appRDtask.dir/appRDtask_autogen/mocs_compilation.cpp.obj	54eba65f89a32f92
+733	910	7377423826872593	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRDtask_Main_qml.cpp	4ffbfe094c6f3685
+133	1187	7377424054776142	build.ninja	2313f645a747be44
+546	583	7377423824017489	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/qt6apprdtask_debug_metatypes.json.gen	294499b8ba64c325
+516	546	7377423823647492	meta_types/appRDtask_json_file_list.txt.timestamp	e4479387c42c00f5
+27	52	7377423818697489	RDtask/Main.qml	d83f8050dca1cf32
+583	733	7377423824647488	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/apprdtask_qmltyperegistrations.cpp	cb6fb6d52fa27b1d
+546	583	7377423824017489	meta_types/qt6apprdtask_debug_metatypes.json.gen	294499b8ba64c325
+934	997	7377423828155203	CMakeFiles/appRDtask.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_appRDtask_raw_qml_0.cpp.obj	56d87f9340865228
+516	546	7377423823647492	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/appRDtask_json_file_list.txt.timestamp	e4479387c42c00f5
+583	733	7377423824647488	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/RDtask/appRDtask.qmltypes	cb6fb6d52fa27b1d
+513	540	7377423823577504	.rcc/qrc_appRDtask_raw_qml_0.cpp	dbfb7c8d99f106e5
+19	127	7377424045083000	.qt_plugins/Qt6_QmlPlugins_Imports_appRDtask.cmake	59b0328aed901bb9
+583	733	7377423824647488	RDtask/appRDtask.qmltypes	cb6fb6d52fa27b1d
+52	513	7377423822727491	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/appRDtask_autogen/timestamp	a131b44b60e1abcf
+19	39	0	CMakeFiles/clean.additional	baedbe210acaa455
+3534	3902	7377423857140851	appRDtask.exe	425c1cd4dc240d5
+516	546	7377423823647492	meta_types/appRDtask_json_file_list.txt	e4479387c42c00f5
+925	3302	7377423851195205	CMakeFiles/appRDtask.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRDtask_CustomButton_qml.cpp.obj	1377cf65d937cc50
+521	547	7377393692833316	.rcc/qrc_qmake_RDtask.cpp	dc4207daa893b7f3
+52	513	7377423822727491	appRDtask_autogen/mocs_compilation.cpp	a131b44b60e1abcf
+546	583	7377423824017489	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/qt6apprdtask_debug_metatypes.json	294499b8ba64c325
+736	854	7377423826452584	.rcc/qmlcache/appRDtask_CustomButton_qml.cpp	17907cbec0ffc571
+913	3398	7377423852165208	CMakeFiles/appRDtask.dir/main.cpp.obj	beb69edaaf4a7ca6
+733	910	7377423826872593	.rcc/qmlcache/appRDtask_Main_qml.cpp	4ffbfe094c6f3685
+740	873	7377423826502585	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRDtask_CustomTextInput_qml.cpp	42e717590727de6e
+921	3162	7377423849785227	CMakeFiles/appRDtask.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRDtask_Main_qml.cpp.obj	9a5ec5a063e14c11
+521	547	7377393692833316	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_qmake_RDtask.cpp	dc4207daa893b7f3
+915	3534	7377423853515205	CMakeFiles/appRDtask.dir/FileHandler.cpp.obj	618f2d10f1e75aec
+52	513	7377423822727491	appRDtask_autogen/timestamp	a131b44b60e1abcf
+942	3620	7377393723570982	CMakeFiles/appRDtask.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRDtask_qmlcache_loader.cpp.obj	303c45ce4c4df6
+52	513	7377423822727491	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/appRDtask_autogen/mocs_compilation.cpp	a131b44b60e1abcf
+918	3022	7377423848395214	CMakeFiles/appRDtask.dir/apprdtask_qmltyperegistrations.cpp.obj	e3337ab1e3c813bb
+38	67	7377414374455298	RDtask/CustomButton.qml	2251b6ad2e8b6bbb
+740	873	7377423826502585	.rcc/qmlcache/appRDtask_CustomTextInput_qml.cpp	42e717590727de6e
+43	71	7377414374495296	RDtask/CustomTextInput.qml	9dda6e64fe38313c
+546	583	7377423824017489	meta_types/qt6apprdtask_debug_metatypes.json	294499b8ba64c325
+938	999	7377393697370964	CMakeFiles/appRDtask.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_qmake_RDtask.cpp.obj	3dd946c4d1fe0e5a
+27	52	7377423818697489	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/RDtask/Main.qml	d83f8050dca1cf32
+43	71	7377414374495296	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/RDtask/CustomTextInput.qml	9dda6e64fe38313c
+19	127	7377424045083000	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appRDtask.cmake	59b0328aed901bb9
+736	854	7377423826452584	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRDtask_CustomButton_qml.cpp	17907cbec0ffc571
+931	3260	7377423850765221	CMakeFiles/appRDtask.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRDtask_CustomTextInput_qml.cpp.obj	6e1d07cd0af8ead9
+525	590	7377393692943317	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRDtask_qmlcache_loader.cpp	387d70b11eabfc04
+38	67	7377414374455298	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/RDtask/CustomButton.qml	2251b6ad2e8b6bbb
+525	590	7377393692943317	.rcc/qmlcache/appRDtask_qmlcache_loader.cpp	387d70b11eabfc04
+127	1161	7377424054776142	build.ninja	2313f645a747be44
+32	55	7377424056006149	RDtask/Main.qml	d83f8050dca1cf32
+32	55	7377424056006149	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/RDtask/Main.qml	d83f8050dca1cf32
+55	158	7377424057026136	appRDtask_autogen/timestamp	a131b44b60e1abcf
+55	158	7377424057026136	appRDtask_autogen/mocs_compilation.cpp	a131b44b60e1abcf
+55	158	7377424057026136	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/appRDtask_autogen/timestamp	a131b44b60e1abcf
+55	158	7377424057026136	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/appRDtask_autogen/mocs_compilation.cpp	a131b44b60e1abcf
+170	194	7377424057396152	.rcc/qrc_appRDtask_raw_qml_0.cpp	dbfb7c8d99f106e5
+170	194	7377424057396152	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_appRDtask_raw_qml_0.cpp	dbfb7c8d99f106e5
+174	195	7377424057416170	meta_types/appRDtask_json_file_list.txt	e4479387c42c00f5
+174	195	7377424057416170	meta_types/appRDtask_json_file_list.txt.timestamp	e4479387c42c00f5
+174	195	7377424057416170	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/appRDtask_json_file_list.txt	e4479387c42c00f5
+174	195	7377424057416170	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/appRDtask_json_file_list.txt.timestamp	e4479387c42c00f5
+196	231	7377424057416170	meta_types/qt6apprdtask_debug_metatypes.json.gen	294499b8ba64c325
+196	231	7377424057416170	meta_types/qt6apprdtask_debug_metatypes.json	294499b8ba64c325
+196	231	7377424057416170	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/qt6apprdtask_debug_metatypes.json.gen	294499b8ba64c325
+196	231	7377424057416170	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/qt6apprdtask_debug_metatypes.json	294499b8ba64c325
+231	400	7377424058796138	.rcc/qmlcache/appRDtask_Main_qml.cpp	4ffbfe094c6f3685
+231	400	7377424058796138	H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRDtask_Main_qml.cpp	4ffbfe094c6f3685
+402	449	7377424059960697	CMakeFiles/appRDtask.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_appRDtask_raw_qml_0.cpp.obj	56d87f9340865228
+400	2015	7377424075600695	CMakeFiles/appRDtask.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRDtask_Main_qml.cpp.obj	9a5ec5a063e14c11
+2015	2403	7377424079091943	appRDtask.exe	425c1cd4dc240d5

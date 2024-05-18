@@ -1,0 +1,7 @@
+--resource
+H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmake_RDtask.qrc
+--resource
+H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/appRDtask_raw_qml_0.qrc
+/RDtask/Main.qml
+/RDtask/CustomButton.qml
+/RDtask/CustomTextInput.qml

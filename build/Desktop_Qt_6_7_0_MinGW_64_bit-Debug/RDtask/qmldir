@@ -1,0 +1,7 @@
+module RDtask
+typeinfo appRDtask.qmltypes
+prefer :/RDtask/
+Main 1.0 Main.qml
+CustomButton 1.0 CustomButton.qml
+CustomTextInput 1.0 CustomTextInput.qml
+

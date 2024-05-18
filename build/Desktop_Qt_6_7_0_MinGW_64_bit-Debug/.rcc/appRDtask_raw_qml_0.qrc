@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/RDtask/">
+    <file alias="Main.qml">H:/New folder (5)/RDtask/Main.qml</file>
+    <file alias="CustomButton.qml">H:/New folder (5)/RDtask/CustomButton.qml</file>
+    <file alias="CustomTextInput.qml">H:/New folder (5)/RDtask/CustomTextInput.qml</file>
+  </qresource>
+</RCC>
+

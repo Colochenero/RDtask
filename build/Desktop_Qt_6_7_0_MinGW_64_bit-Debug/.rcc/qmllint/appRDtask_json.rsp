@@ -1,0 +1,14 @@
+--bare
+-I
+H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug
+-I
+C:/Qt/6.7.0/mingw_64/./qml
+--resource
+H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmake_RDtask.qrc
+--resource
+H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/appRDtask_raw_qml_0.qrc
+H:/New folder (5)/RDtask/Main.qml
+H:/New folder (5)/RDtask/CustomButton.qml
+H:/New folder (5)/RDtask/CustomTextInput.qml
+--json
+H:/New folder (5)/RDtask/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/appRDtask_qmllint.json
