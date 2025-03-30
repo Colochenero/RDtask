@@ -23,10 +23,10 @@ The UI is built using QML with reusable custom components .Backend logic is writ
 
 ---
 ## Encryption Specs
--Algorithm: AES (Advanced Encryption Standard)
--Key Size: 256 bits
--Mode: CBC (Cipher Block Chaining)
--Library: OpenSSL 
+- **Algorithm:** AES (Advanced Encryption Standard)
+- **Key Size:** 256 bits
+- **Mode: CBC** (Cipher Block Chaining)
+- **Library:** OpenSSL 
 
 ## Technologies Used
 
